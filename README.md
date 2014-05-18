@@ -1,7 +1,7 @@
 http-latency-monitor
 ====================
 
-simple scripts to help diagnose internet connectivity issues.
+simple scripts to help diagnose internet connectivity issues I have noticed with google fiber in provo.
 
 usage
 =====
@@ -30,7 +30,7 @@ size_upload, speed_download, speed_upload,time_appconnect,
 time_connect, time_namelookup, time_pretransfer, time_redirect,
 time_starttransfer, time_total, site, unix_timestamp
 
-For more detail on these fields, use 'man curl'.
+for more detail on these fields, use 'man curl'.
 
 
 David Hilton <dhiltonp@gmail.com>
